@@ -1,0 +1,21 @@
+.carousel{
+    margin-top: 30px;
+}
+
+html {
+    background: #373f4a;
+}
+@media (max-width: 1200px) {
+    html {
+        font-size: 55%;
+    }
+
+    .about-me-image img{
+        width: 70%;
+        border: none;
+    }
+
+    .about .title h2{
+        font-size: 50%;
+    }
+}
